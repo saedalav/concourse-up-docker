@@ -1,0 +1,5 @@
+#!/usr/bin/env bash 
+
+
+curl -o concourse-up -L https://github.com/EngineerBetter/concourse-up/releases/download/0.8.1/concourse-up-linux-amd64
+chmod +x concourse-up
